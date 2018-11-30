@@ -1,0 +1,137 @@
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\bin\Debug\SmcEslSystem.exe.config
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\bin\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\bin\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\obj\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\obj\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\bin\Debug\zxing.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\bin\Debug\SmcEslSystem.exe.config
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\obj\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\obj\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\bin\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\bin\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\bin\Debug\zxing.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\bin\Debug\SmcEslSystem.exe.config
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\bin\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\bin\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\bin\Debug\zxing.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\obj\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新\SmcEslSystem\obj\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\bin\Debug\SmcEslSystem.exe.config
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\obj\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\obj\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\bin\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\bin\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\bin\Debug\zxing.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\bin\Debug\zxing.presentation.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - Barcode和更新udp\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslSystem.exe.config
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslSystem.exe
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslSystem.pdb
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslLib.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\bin\Debug\zxing.dll
+D:\EPaperParser\電子貨價標籤系統\SmcEslSystem - lib\SmcEslSystem\bin\Debug\zxing.presentation.dll
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslSystem.exe.config
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslSystem.exe
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslSystem.pdb
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslLib.dll
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\zxing.dll
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\zxing.presentation.dll
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.CoreCompileInputs.cache
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.exe
+C:\Users\ihoinserv\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.pdb
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslSystem.exe.config
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.pdb
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslSystem.exe
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslSystem.pdb
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\SmcEslLib.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\zxing.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\bin\Debug\zxing.presentation.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - lib\SmcEslSystem\obj\Debug\SmcEslSystem.exe
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\bin\Debug\SmcEslSystem.exe.config
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\obj\Debug\SmcEslSystem.exe
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\obj\Debug\SmcEslSystem.pdb
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\bin\Debug\SmcEslSystem.exe
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\bin\Debug\SmcEslSystem.pdb
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\bin\Debug\ClassLibrary3.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\bin\Debug\SmcEslLib.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\bin\Debug\zxing.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\bin\Debug\zxing.presentation.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\bin\Debug\ClassLibrary3.pdb
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\obj\Debug\SmcEslSystem.Form2.resources
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\bin\Debug\SmcEslSystem.exe.config
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.exe
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.pdb
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\bin\Debug\SmcEslSystem.exe
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\bin\Debug\SmcEslSystem.pdb
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\bin\Debug\ClassLibrary3.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\bin\Debug\SmcEslLib.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\bin\Debug\zxing.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\bin\Debug\zxing.presentation.dll
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\bin\Debug\ClassLibrary3.pdb
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.Form2.resources
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+C:\Users\abby\Desktop\新增資料夾 (4)\SmcEslSystem - libV5 180126screen - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\bin\Debug\`.exe.config
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.ResolveComReference.cache
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.csprojResolveAssemblyReference.cache
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.Form1.resources
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.Form2.resources
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.TransparentPanel.resources
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.csproj.GenerateResource.Cache
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\bin\Debug\`.exe
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\bin\Debug\`.pdb
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\bin\Debug\ClassLibrary3.dll
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\bin\Debug\SmcEslLib.dll
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\bin\Debug\zxing.dll
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\bin\Debug\zxing.presentation.dll
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\bin\Debug\ClassLibrary3.pdb
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\obj\Debug\SmcEslSystem.Properties.Resources.resources
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\obj\Debug\`.exe
+C:\Users\abby\Desktop\ESL\SmcEslSystem - libV6 180313tr_Form2 - 複製\SmcEslSystem\obj\Debug\`.pdb
